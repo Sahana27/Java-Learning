@@ -1,0 +1,72 @@
+Java first Program and Program Structure
+
+class SampleOne {
+	public static void main (String args []) {
+		System.out.println("Java is better than C++ ");
+	}
+}
+
+Class Declaration :
+Class is object oriented COnstruct
+Everything must be placed inside class
+class-keyword
+SampleOne is identifier 
+
+Opening Braces : 
+Class definition begins with  : open braces
+closing braces is the last line
+
+Main Line
+     public static void main (String args [])
+
+main : eveery program must include main.
+Starts its execution here
+Java has any number of class but only one main class
+
+public : access specifier
+makes class accessible to any other class
+
+static :
+keyword
+belongs to entire class not a part of any objet
+
+void:
+type modifier
+main : method does not return any value.
+
+Output Line
+System.out.println("Java is better than C++ ");
+
+Link printf, cout  this writes to standard output.
+Every java statement ends with semicolon
+
+Program Structure
+
+Documentation Section:
+Set of COmment Line : name, program descripion etc.
+Here in this part we explain why and what classes and how of algorithm
+/** ....*/
+
+Package Statement
+Java file is a package statement
+package name and informs compiler class defines package
+Optional
+syntax of package
+ package <package_name>;
+
+Import statement
+Similiar to include
+Instructs interpreter to load the class mentioned
+import <clas_name>
+
+Class Definitions:
+Primary and Essential element of Java
+Number of classes depends on complexity
+
+Main Method CLass:
+starting point of program execution
+Main class creates object of different class and establish communication between them
+
+
+
+

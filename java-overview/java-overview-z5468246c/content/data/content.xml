@@ -1,0 +1,1419 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-116889.2888234722" y="-99727.76857939408" width="233778.57764694444" height="199455.53715878812"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_95982358" type="button" x="-7240.778051164063" y="3629.727745180344" r="0" s="124.00059731389186" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>827.017689256149</w>
+        <h>472.7586321704921</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0_95982358" type="image" x="171.12092159790083" y="3627.703097156824" r="0" s="40.305681740006705">
+      <source w="1265" h="1103">2534126599<url>2534126599.swf</url></source>
+      <resource>
+        <id>2534126599</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/c/0fee79a920977369f923e42cd08055a6ecfdf.swf</url>
+      </resource>
+      <sourceUrl>COLOR Birds_UP.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="6_95982358" type="button" x="-20054.662911563428" y="21523.05443971542" r="0" s="4.59715283045763" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="40_95982358" type="button" x="-10238.156969536638" y="14440.448347200196" r="0" s="5.589435063405438" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="41_95982358" type="text" x="-10228.77489077873" y="12874.500137980422" r="-1.601727615887787e-31" s="9.872258449841164" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Java History]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="43_95982358" type="text" x="-10267.86135167652" y="14214.350870028014" r="-2.7759820227195356e-31" s="7.931015055792101" class="body">
+      <height>196.1015625</height>
+      <width>455.52377848276814</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Developed by Sun Microsystem]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Originally called OAK-James Gosling]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Goal-simple, portable and secure]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Removed restriction of C and C++]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Platform neutral language]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Compiled Once Run Anywhere]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="4_30863873" type="image" x="-25883.447369454698" y="25082.82393040117" r="0" s="10.1090220187322">
+      <source w="737" h="717" bt="4.85" bl="60.7">2587371169<url>2587371169.swf</url></source>
+      <resource>
+        <id>2587371169</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/8/b/8af565601660d9ce5c64a8e184f6800cef5f2.swf</url>
+      </resource>
+      <sourceUrl>szinesmadar-01.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="44_95982358" type="text" x="-42428.05136577566" y="24185.370443211115" r="0" s="89.44360838480779" class="head">
+      <height>31.9921875</height>
+      <width>326.6459738459077</width>
+      <p align="right">
+        <text><![CDATA[JAVA OVERVIEW]]></text>
+      </p>
+    </object>
+    <object id="46_95982358" type="button" x="-6181.9996153099255" y="8511.379090773627" r="0" s="7.825209088767614" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="47_95982358" type="text" x="-6194.1006175838065" y="6321.405678995841" r="-1.6017276158877876e-31" s="17.251242639692585" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Java Features]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="48_95982358" type="text" x="-6186.295653968001" y="8600.816888650605" r="-2.775982022719536e-31" s="9.953879930860152" class="body">
+      <height>392.203125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Compiled and Interpreted]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Platform Independent and Portable]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Object Oriented]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Robust and Secure]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Distributed]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Multi-threaded and Interactive]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[High Performance]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Dynamic and Extensible]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Ease Of Development]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Scalability and Performance]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Simple Small and Familiar]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="49_95982358" type="button" x="2024.0113044540776" y="6754.771969480304" r="0" s="8.548999716615404" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="50_95982358" type="text" x="1997.787378767388" y="4446.406038981681" r="-1.6017276158877872e-31" s="18.8468917271094" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Simple Java Program]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="52_95982358" type="button" x="2069.9756530514965" y="8875.373440257767" r="0" s="1.9441995450121163" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="53_95982358" type="text" x="2058.62208810751" y="8338.956918754915" r="-1.6017276158877872e-31" s="3.421483188717087" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Explanation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="54_95982358" type="text" x="2073.641908397992" y="8903.087176909232" r="-2.775982022719535e-31" s="2.054418248552425" class="body">
+      <height>392.203125</height>
+      <width>520.2737784827682</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[First Line:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[class is keyword]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Everything inside Java]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Main Line:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Starting Point-execution]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Only one main program]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[public: accessible to main]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[static:determine class is accessible]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[void: does not return type.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Output Line:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[print is same as system.out.println]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[All Statement ends with semicolon ]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="55_95982358" type="button" x="7637.391375024445" y="-750.157859457188" r="0" s="9.846728516963529" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="56_95982358" type="text" x="7582.084276153934" y="-3665.314385329703" r="-1.601727615887787e-31" s="9.023570658447726" class="strong">
+      <height>28.8</height>
+      <width>364.9493900181616</width>
+      <p align="center">
+        <text><![CDATA[Java Program Structure]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="-20062.99564503893" y="20494.780756180047" r="0" s="10.23968590955212" class="strong">
+      <height>28.8</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[Java Overview]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="-20070.313347257437" y="21576.03169746459" r="0" s="6.58392781797155" class="body">
+      <height>130.734375</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java History]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java Feature]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Simple Java Program]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java Program Structure]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="2_30863873" type="shape" x="-116578.22581797087" y="-98833.25911234284" r="0" s="15.55315027506668" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="3_30863873" type="shape" x="116453.80061577036" y="-99292.2803716922" r="0" s="21.77441038509336" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="5_30863873" type="shape" x="-116657.58727192647" y="99505.58071832168" r="0" s="11.10939305361906" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="6_30863873" type="shape" x="116374.43916181476" y="99046.55945897232" r="0" s="15.55315027506668" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="7_30863873" type="persistentgroup" x="1.4551915228366852e-11" y="-1.4551915228366852e-11" r="0" s="157.95679318930172">
+      <m o="0_95982358"/>
+      <m o="2_30863873"/>
+      <m o="3_30863873"/>
+      <m o="5_30863873"/>
+      <m o="6_30863873"/>
+      <meta>
+        <parentTemplate>take-flight</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0" type="button" x="-4254.6234203407885" y="6826.181072128652" r="0" s="0.35955177879309386" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="1" type="text" x="-4252.82792920414" y="6736.820859404726" r="0" s="0.6361868878759672" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Compile and Interpreted]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="2" type="text" x="-4252.371510779364" y="6811.8445616801455" r="0" s="0.4573596940905885" class="body">
+      <height>163.41796875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java compiles and Interpretes the code]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Two Stage System]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Compiles -byte code]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Translates -Machine language]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0"/>
+      </layout>
+    </object>
+    <object id="3" type="button" x="-4254.899649746426" y="7243.287474642179" r="0" s="0.36585736802186425" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="4" type="text" x="-4254.48530563797" y="7156.551441271816" r="0" s="0.6868925364912297" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Platform Independent and  Portable]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="5" type="text" x="-4257.638508952899" y="7252.937970845896" r="0" s="0.49402734797165" class="body">
+      <height>294.15234375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Program can be moved easily]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Operating System upgrade does not affect Java code]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java Supports Portability in two ways:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Java Byte code can be executed on any system]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Size of primitive data type is independent]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="6" type="button" x="-4254.761535043604" y="7645.753718656885" r="0" s="0.3174413350663918" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="7" type="text" x="-4256.979262082034" y="7556.741808383252" r="0" s="0.6998225137471366" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Object Oriented]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="8" type="text" x="-4250.451540205045" y="7633.201501533124" r="0" s="0.4037940582160781" class="body">
+      <height>228.78515625</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Everything in Java -Object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Code and data resides in Object and class]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Extensive use of class- by object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Object -easy and simple to extend]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="6"/>
+      </layout>
+    </object>
+    <object id="9" type="button" x="-4254.85632404181" y="8032.10010599784" r="0" s="0.30790035216589334" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="10" type="text" x="-4254.968884056871" y="7944.585370512431" r="0" s="0.6787887229345794" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Robust and Secure]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="11" type="text" x="-4262.2578755785435" y="8028.315040048181" r="0" s="0.3916576670811405" class="body">
+      <height>326.8359375</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Robust Language]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java has strict run time and compile time checking]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Memory Managment- Garbage Collection]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Handle crash -Exception Handling]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Check of memory access and also ensure virus does not communicate through applet]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="9"/>
+      </layout>
+    </object>
+    <object id="12" type="button" x="-4255.866452666155" y="8400.136225454527" r="0" s="0.36585736802186425" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="13" type="text" x="-4257.563331463794" y="8303.77219933246" r="0" s="0.8065591801660716" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Distributed]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="12"/>
+      </layout>
+    </object>
+    <object id="14" type="text" x="-4252.639609500944" y="8384.114919927519" r="0" s="0.4653805760075457" class="body">
+      <height>130.734375</height>
+      <width>529.6237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Designed to develop application on network]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Open and access remote object using Internet]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="12"/>
+      </layout>
+    </object>
+    <object id="15" type="button" x="-4254.722112943106" y="8774.558936495137" r="0" s="0.3079003521658933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="16" type="text" x="-4255.525246472263" y="8700.133511487642" r="0" s="0.6787887229345793" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Multi Threaded and Interactive]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="17" type="text" x="-4257.842108692451" y="8763.94977670663" r="0" s="0.3916576670811403" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Multithreading : Handle multiple task simoultaneously]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Improves interactivity]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="15"/>
+      </layout>
+    </object>
+    <object id="18" type="button" x="-4254.761535043607" y="9073.721631103026" r="0" s="0.3079003521658933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19" type="text" x="-4254.1835215445735" y="8988.831074971182" r="0" s="0.6787887229345794" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[High Performance]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="18"/>
+      </layout>
+    </object>
+    <object id="20" type="text" x="-4251.113910354818" y="9054.78812749676" r="0" s="0.3916576670811403" class="body">
+      <height>163.41796875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Impressive Perfomance]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reduces Overhead during runtime]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="18"/>
+      </layout>
+    </object>
+    <object id="21" type="button" x="-4254.899649746426" y="9433.41173934433" r="0" s="0.33444683754070437" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="23" type="text" x="-4260.864080908496" y="9417.90353685799" r="0" s="0.42542552235627895" class="body">
+      <height>261.46875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java is Dynamic ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Easy to link new class , libraries and method]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Determines type of class through query.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Native method]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Native method are linked at runtime.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="21"/>
+      </layout>
+    </object>
+    <object id="24" type="button" x="-4254.899649746426" y="9752.831624864288" r="0" s="0.3079003521658933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="25" type="text" x="-4255.545369575721" y="9669.541027732068" r="0" s="0.6787887229345794" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Ease Of Development]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="24"/>
+      </layout>
+    </object>
+    <object id="26" type="text" x="-4258.29645180385" y="9742.068319749218" r="0" s="0.3916576670811403" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Supports different features.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Reduces work of programmer.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Bug free code is developed.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="24"/>
+      </layout>
+    </object>
+    <object id="28" type="button" x="-4255.037489747106" y="10077.989965829953" r="0" s="0.3079003521658933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="29" type="text" x="-4253.526377643356" y="9997.91775199391" r="0" s="0.4900356481253514" class="strong">
+      <height>28.8</height>
+      <width>292.1493900181616</width>
+      <p align="center">
+        <text><![CDATA[Performance and  Scalability]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="28"/>
+      </layout>
+    </object>
+    <object id="30" type="text" x="-4255.947650251345" y="10075.47924698067" r="0" s="0.3916576670811403" class="body">
+      <height>65.3671875</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Increase in start up time and reduce in memory.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="28"/>
+      </layout>
+    </object>
+    <object id="32" type="button" x="-4254.899649746426" y="10387.3387408318" r="0" s="0.3079003521658933" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="33" type="text" x="-4256.522457281352" y="10303.793829773038" r="0" s="0.4446699632381211" class="strong">
+      <height>28.8</height>
+      <width>294.2493900181616</width>
+      <p align="center">
+        <text><![CDATA[Simple Small and Familiar]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="32"/>
+      </layout>
+    </object>
+    <object id="34" type="text" x="-4251.47817454217" y="10370.969089024957" r="0" s="0.3916576670811403" class="body">
+      <height>130.734375</height>
+      <width>512.7237784827682</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java is simple language]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Redundant Feature of C and C++  -Not in Java]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Java is modeled around C and C++.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="32"/>
+      </layout>
+    </object>
+    <object id="35" type="text" x="-4258.016300107104" y="9329.3442514337" r="0" s="0.42542552235627895" class="strong">
+      <height>28.8</height>
+      <width>-233.13599999999997</width>
+      <p>
+        <text><![CDATA[Dynamic and Extensible]]></text>
+      </p>
+    </object>
+    <object id="37" type="text" x="2088.1886634824746" y="6436.052127622216" r="0" s="7.374954241218047" class="body">
+      <height>228.78515625</height>
+      <width>686.1611892819888</width>
+      <p>
+        <text><![CDATA[class SampleOne]]></text>
+      </p>
+      <p>
+        <text><![CDATA[{]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    public static void main(String args[])]]></text>
+      </p>
+      <p>
+        <text><![CDATA[   {]]></text>
+      </p>
+      <p>
+        <text><![CDATA[      System.out.println("Java is better than C ");]]></text>
+      </p>
+      <p>
+        <text><![CDATA[    }]]></text>
+      </p>
+      <p>
+        <text><![CDATA[}]]></text>
+      </p>
+    </object>
+    <object id="22" type="image" x="7677.95" y="-1720.3499999999995" r="0" s="7.261402672623253">
+      <source w="587" h="327">-1589621661<url>-1589621661.png</url></source>
+      <resource>
+        <id>-1589621661</id>
+        <url>http://0103.static.prezi.com.s3.amazonaws.com/media/5/1/2/ffeeb2d03639b7b2d4fea0b549bdcc63a1072.png</url>
+      </resource>
+      <sourceUrl>aviary.png</sourceUrl>
+    </object>
+    <object id="31" type="button" x="7854.200000000001" y="1130.9" r="0" s="2.288901500411165" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>blank-quick</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="39" type="text" x="7881.200000000003" y="1187.05" r="0" s="1.5632780804546342" class="body">
+      <height>784.40625</height>
+      <width>755.0578125</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Class contain many classes.]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Classes contain data members and methods]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Method-data types and executable statement]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Documentation Section]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Comments]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[explain why and what]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[program name]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[/**...*/]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Package Statement]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[First statement ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[package keyword]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[informs compiler, class is defined in this package.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Import Statement]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Similar to C include statement.]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Interface Statement]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Include group method declaration]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Class definition]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[class is keyword]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Primary and Essential element]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Class -map object to real world problem]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Main Method:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Starting point of execution]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Create object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Program terminates]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="7.791572476880905" fadescale="2.32252310414255">
+      <object id="background2533364506" type="image" x="7134.425584698361" y="-2137.6868359848495" r="0" s="16.8903516812103">
+        <source w="2343" h="2069">2533364506<url>2533364506.png</url></source>
+        <resource>
+          <id>2533364506</id>
+          <url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/1/a/8fcece48cccaefb2dd43973e85d692a7562b4.png</url>
+        </resource>
+        <sourceUrl>Birds-BG_4Blur.png</sourceUrl>
+      </object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1_95982358"/>
+    </s>
+    <s>
+      <eagle o="6_95982358"/>
+    </s>
+    <s>
+      <eagle o="40_95982358"/>
+    </s>
+    <s>
+      <eagle o="46_95982358"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="6"/>
+    </s>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="12"/>
+    </s>
+    <s>
+      <eagle o="15"/>
+    </s>
+    <s>
+      <eagle o="18"/>
+    </s>
+    <s>
+      <eagle o="21"/>
+    </s>
+    <s>
+      <eagle o="24"/>
+    </s>
+    <s>
+      <eagle o="28"/>
+    </s>
+    <s>
+      <eagle o="32"/>
+    </s>
+    <s>
+      <eagle o="49_95982358"/>
+    </s>
+    <s>
+      <eagle o="52_95982358"/>
+    </s>
+    <s>
+      <eagle o="55_95982358"/>
+    </s>
+    <s>
+      <eagle o="31"/>
+    </s>
+    <s>
+      <eagle o="1_95982358"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Titillium-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Titillium-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-RegularItalic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #c93842;
+	gradEndColor: #c93842;
+	gradStartColor: #c93842;
+}
+
+.line2
+{
+	color: #6cab5d;
+	gradEndColor: #6cab5d;
+	gradStartColor: #6cab5d;
+}
+
+.line3
+{
+	color: #3d99d3;
+	gradEndColor: #3d99d3;
+	gradStartColor: #3d99d3;
+}
+
+.line4
+{
+	color: #f48951;
+	gradEndColor: #f48951;
+	gradStartColor: #f48951;
+}
+
+.line5
+{
+	color: #fcd756;
+	gradEndColor: #fcd756;
+	gradStartColor: #fcd756;
+}
+
+.poly1
+{
+	color: #fff;
+	gradEndColor: #c93842;
+	gradStartColor: #c93842;
+}
+
+.poly2
+{
+	color: #fff;
+	gradEndColor: #6cab5d;
+	gradStartColor: #6cab5d;
+}
+
+.poly3
+{
+	color: #fff;
+	gradEndColor: #3d99d3;
+	gradStartColor: #3d99d3;
+}
+
+.poly4
+{
+	color: #fff;
+	gradEndColor: #f48951;
+	gradStartColor: #f48951;
+}
+
+.poly5
+{
+	color: #fff;
+	gradEndColor: #fcd756;
+	gradStartColor: #fcd756;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 6;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #c93842;
+	gradStartAlpha: 1;
+	gradStartColor: #c93842;
+	padding: 1.03;
+	thickness: 7;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #3d99d3;
+	gradStartAlpha: 1;
+	gradStartColor: #3d99d3;
+	padding: 1.03;
+	thickness: 7;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #bcb9ac;
+	borderThickness: 1;
+	gradEndAlpha: 0.55;
+	gradEndColor: #fff;
+	gradStartAlpha: .75;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #fcd756;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #3d99d3;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #fcd756;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #f45400;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>99a77c7</hash>
+<sync><oid>zerca2zj7kr2</oid><title>java-overview</title><hash>99a77c7</hash></sync><config>POHFzJWSGCHP65RuHrTIzVVlyyjYr2Q2RdK+gGEAnnW/gZIfa0vx+OldaSGdvMsdNK16gxNsNoKVo4ctmv8l0JsceU3SSuyswyPDvyE8Qj7WRK51Mk+zkirSNppzLSvyJAqIQUXwz3HcUfpjoizQXnfyujNJTzrfhvFyI2Xrex5pNoUoVvhmkHws4DOw2VtsfAgqhFdrD8SPRZjGQEOb87hS1gmoF8V+s5kGpVAOuGYUOLvARo2OA3Zn0l4lgCHhzqx5z03XBD/N6f3ZpVrNZNrYri3Hx4mLTGxSywlT6Hok3K95+4VkemiAnZ/NIYpMwibG0pBvvOTRUHxdUVD2/Q==</config></zuiprezi>

@@ -1,0 +1,263 @@
+ ################CORE JAVA TUTORIAL################
+
+OOPS Concepts
+ => Objects and CLasses
+ => Data Abstraction and Encapsulation
+ =>Inheritence
+ => Polymorphism
+ =>Dynamic Binding
+ =>Message COmmunication
+Benefits of OOP
+
+History
+Java Feature
+=>Compiled and Intrepreted
+=>Platform-Independent and Portable
+=> Object Oriented
+=>Robust and Secure
+=>Distributed
+=>Simple,Small and Familiar
+=>Multithreaded and Interactive
+=>High Performance
+=>Dynamic and Extensible
+=>Ease of Development
+=>Scalability and Performance
+=>Monitoring and Manageability
+=>Desktop Client
+
+
+First Java Program : with Description
+
+Java Program structure
+=>Documentation Section
+=>Package Statement
+=>Import Statements
+=>Interface Statements
+=>Class Definitions
+=>Main Method class
+
+BASIC SYNTAX
+JAVA IDENTIFIER
+JAVA MODIFIER
+ENUM
+
+Java Collection Tokens
+Reserved Keyword
+Identifiers
+Literals
+Operators 
+Separators
+
+
+
+JVM -Java Virtual Machine
+
+Command Line Arguments
+
+
+
+Constants
+=>Integer Constants
+=>Real Constants
+=>Single Character Constants
+=>String COnstants
+=>Backslash Character COnstants
+
+Variables
+
+Data Types
+=> Integer Types
+=>Floating Point Types
+=>Character Type
+=>Boolean type
+
+Declaration Of Variable and Giving Values to Variable
+How to obtain values of variable
+
+Scope of variables
+
+Symbolic Constants
+
+Type Casting with example
+
+Operators
+=>Arithematic Operators
+	=>Integer Arithematic
+	=>Real Arihematic
+	=>Mixed -mode Aritematic
+=>Relational Operators
+=>Logical Operators
+=>Assignment Operators
+=>Increament and Decreament Operator
+=>Condiional Operator
+=>Bitwise Operator
+=>Special Operator
+	=>Instance Operator
+	=>Dot Operator
+
+Arithematic Expression
+=>Evaluating Expression
+=>Precedence
+=>Type COnversion in Expresssion with example
+	=>Automatic
+	=>Casting a value
+
+Decision Making and Branching
+=>If Statement
+	=>Simple If
+	=>If ---ELse
+	=>nesting If else
+	Else If Ladder
+=>Switch Statement Example
+=>?: Operator
+
+Decision making and Loop
+=>while
+=>do
+=>for 
+=>Jump out of Loop : break
+=>Skip a part of loop : continue
+=>Labelled Loop
+
+Class, Methods and Objects
+=>Defining a class
+=> Field Declaration
+=>Method Declaration
+=>Creating Objects
+=>Accessing Class Members
+=>Constructors
+=>Method Overloading
+=>Static Members
+=>Nesting of Methods
+=>Inheritence =>Extending a class
+=>Defining sub class
+=>Overridding methods
+=>Final variable and Methods
+=>Final classes
+=>Finalizer Methods
+=>Abstract methods and classes
+=>Methods with Varargs
+=>Visiblity Access
+	=>public
+	=>friendly
+	=>protected
+	=>private
+	=>private protected
+
+Array
+=>1D array
+	=>Creating an array
+=>Array Length
+=>2-D Array
+	=>Varable Size Arrays
+
+Strings
+=>String Arrays
+=>String Methods
+=>String Buffer Class
+
+Vectors
+=>Wrapper Classes
+	=>AutoBoxing and Unboxing
+=>Enumerated Types
+=>Annotations
+
+
+Interface :MultipleInheritence
+=>Defining Interface
+=>Extendng Interface
+=>Implementing Interfaces
+=>Accessing Interfae variable
+
+Package
+=>API Package
+=>System Package
+=>Naming COnvention
+=>Creating Package
+=>Accessing a package
+=>Using a package
+=>Adding class to package
+=>Hiding Classes
+=>Static Import
+
+Multithreaded Programming
+=>Creating thread
+=>Extending the Thread CLass
+=>Starting a thread
+=>Stopping and blocking a thread
+=>Life Cycle of Thread
+=>Using Thread methods
+=>Thread Exception
+=>Thread priority
+=>Synchronization
+=>Implementing Runnable Interface
+
+Errors
+=>Types of Error
+	=>Compile time
+	=>Run Time
+
+Exception
+=>Syntax of Exception Handling COde
+=>USing try-catch
+=>Using Finally STatement
+=>Throwing your own Exception
+
+Managing Input /Output FIle in Java
+=>COncept of Streams
+=>Stream CLasses
+=>Byte Stream Classes
+	=>Input Stream Classes
+	=>Output Stream Classes
+    =>Reader Stream CLasses
+    =>Write Stream Classes
+=>Using Streams
+=>Using the File Class
+	=>Input/Output Exceptions
+	=>Creation of Files
+	=>Reading/Writing Character
+	=>Reading/Writing Bytes
+	=>Handling Private Data Types
+=>Concatenating and Buffering FIles
+=>Objet Stream
+=>Piped Stream
+=>Pushback Stream
+=>Filtered Stream
+
+Assertion Statements
+
+Java Collections
+=>Overview of Interfaces
+=>Collection Interface
+Set
+List
+Sorted Set
+Queue
+Map
+SortedMap
+Iterator
+
+Overview of CLasses
+AbstractCollection Class
+AbstractList
+ArrayList
+HashSet
+Stack CLass
+HashTable Class
+
+Algorithms Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

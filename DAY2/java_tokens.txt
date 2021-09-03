@@ -1,0 +1,216 @@
+Java Tokens
+==>Smallest indiviual unit in a program is known as tokens
+==>Compiler recognizes them to build up expression and statements
+==>Java is collection of tokens , comments and white spaces
+
+Five types of tokens in Java are:
+=>Reserve keywords
+=>Identifiers
+=>Literals
+=>Operators 
+=>Separator
+
+Character Set:
+==>Smallest unit of Java
+==>defines using unicode set 
+
+Keyword:
+==>Keywords combined along with operators according to the syntax form Java Definition.
+==>Keywords cannot be used as names of variable,classes and method
+==>keywords are in lower case
+==>Java is case sensitive
+==>REMEMEBER never use null, true or false as name of file or variable in Java program.
+
+Identifiers:
+==>Program defines tokens
+==>Used for naming classes,method , variables,object,label,package and interface.
+==>Identifiers follow following rules:
+	=>Can have alphabet,dollar,underscore and digit
+	=>Must not begin with digit
+	=>upper and lowercase are distinct
+	=>they can be of any length
+==> Identifier must be short so that they can be easily typed and long enough for understanding.
+==>ALl public method and instance variable start with leading letter which is lower case.
+   average 
+   sum
+==>More than one word is used in the identifier.First word starting letter is small and second word Starting letter is in caps
+	dayTemperature
+	firstDayOfMonth
+	totalMarks
+==>private and local variable use only lowercase along with underscore	
+   length
+   batch_strength
+==>Classes and Interface begin with leading uppercase letter
+==>COnstant variable are all in uppercase  and underscore between words
+   TOTAL
+   X_MAX
+
+Literals
+==>Sequence of character that represent constant value to be stored in variable
+==>Five major types of Literals
+	=>Integer Literal
+	=>Floating point literal
+	=>Character literal
+	=>String Literal
+	=>boolean Literal
+
+Operator:
+==>Operator symbol that take one or two operand and operates on them to produce result.
+
+Separator:
+==>Separator are symbols used to define where groups of code are divided and arranged.
+
+Command Line Arguments
+==>Providing input at time of execution.Java provides command line argument
+==>Look at the the main syntax
+ public static void main (String args[])
+ args is declared as array of String
+ Any parameter passed through command line is stored in args array.
+ Which can be simply used in the program.
+ 
+Java Programming Style:
+==>FreeForm Language
+==>Indentation is required only for more readability by user. Not by the compiler.
+
+CONSTANTS
+==>Refer to value that does not change during the execution of the program
+Java Constants has two Parts Numeric and Character Constants
+Numeric Constants: Integer and Real COnstants
+Character Constants :Character and String Constants
+INTEGER CONSTANTS:
+==> Sequence of digit
+==> Three types of Integer:
+	=>decimal Integer
+	=>Octal Integer
+	=>Hexadecimal Integer
+
+Decimal Integer:
+=>Set of 0 through 9
+=>Optional minus.
+
+Octal Integer:
+==> Set of number from 0 to 7 precedded by 0.
+
+Hexadecimal Integer:
+==>Preceded by 0x or 0X.
+==>Include alphabet from A to F
+
+REAL Constatnt
+==>fraction number are called real constants
+==>Shown in decimal form
+==>Floating point numbers
+
+Single Character Constant:
+==>Single character which is put inside an single paranthesis.
+
+String Constant:
+==> Sequence of character placed inside a double quotes.
+
+Backslash Character constant:
+==>They have two character.
+==> These are called escape sequence
+
+Variables:
+==>storage location used to store a data value.
+==>variable will different values different time  during different execution
+==>variable name consists of alphabet,digit,dollar,underscore
+==>Rules of variable naming:
+	=>should not begin with digit
+	=>uppercase and lowercase are different
+	=>should not be a keyword
+	=>whitespace is not allowed
+	=>variable names can be any of length.
+DECLARATION OF VARIABLE:
+==>It does three things:
+	Tells compiler what variable name is
+	Specifies what type of data the variable are hold
+	Place the declaration decides the scope of the variable.
+==> declare variable before it is used.
+==> SYntax:
+	datatype variable1,variable2,... variablen;
+variables are separated by comma and ends with semicolon
+
+Giving values to variable:
+==>Can be achieved by:
+	Assignment statement 
+	read statement
+
+Scope of Variables:
+Classified into three types:
+instance variable 
+class variable 
+local variable
+
+Instance  Variable:
+==> Found inside the class
+==>Variables are created when the class is instantiated
+
+Class variable:
+==> found inside the class=>
+==>not available for use outside the method
+==> creayed when method is created and destroyed when method is terminated.
+==>
+Local variable:
+==>Created inside method
+
+	
+Assignment Statement:
+Syntax :
+		variable_name=value;
+		  or
+	Assign value at time of declaration
+	  type variable_name= value
+
+Read Statement 
+	=> Assign value to variable interactively through keyboard.
+	=> Thix will be explained in later part.
+
+Getting Values Of A Variable:
+==>Printing the variable using print or println
+==>print()-print and wait
+==>println()prints and moves to the new line	
+	
+DATA TYPES:
+==>Each variable has a data typed
+==>Data type specify the size and type of values that can be stored.
+==>Data types in Java are divided
+   Primitive data type:
+		Numeric :Integer and FLoating Point
+		Non Numeric :Character and Boolean
+	Non Primitive Data Type
+		Classes
+		Interface
+		Array
+
+Integer Types:
+==> Four types of Integer Type:
+	byte-one byte
+	short -two byte
+	int - four byte
+	long - eight byte
+
+Floating Point Types
+==>Holds decimal number
+==>float are single precession  and double are double precision
+==> float is four byte and double is eight byte
+
+Character Type:
+==>Char type- 2 byte
+
+Boolean Type:
+==> true or false.
+
+TYPE CASTING
+==>Situation where we need to store output of one type variable into another type variable
+==>Syntax:
+    type variable1=(type)variable2
+
+Default values for different variable type:
+Show with Example
+
+
+
+
+	
+   
+   

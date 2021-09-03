@@ -1,0 +1,15 @@
+OOPS Concepts : Brush Up
+
+OOP :Programming language model organized around objects rather than "actions" and data rather than logic. 
+
+POP : Code is organised into small "procedures" that use and change our data.These functions typically take some input, do something, then produce some output. Ideally your functions would behave as "black boxes" where input data goes in and output data comes out
+
+Concept of OOPS:
+
+For example consider we have a Class of Cars under which Santro Xing, Alto and WaganR represents individual Objects.In this context
+Each Car Object will have its own, Model,Year of Manufacture, Colour, Top Speed, Engine Power etc.,which form Properties of the Car class and the associated actions i.e.,
+object functions like Start, Move, Stop form the Methods of Car Class.No memory is allocated when a class is created. Memory is
+allocated only when an object is created, i.e., when an instance of a class is created.
+
+Benefits of Java
+http://www.ustudy.in/node/27

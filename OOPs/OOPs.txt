@@ -1,0 +1,101 @@
+OBJECT Oriented Paradigm
+==>DATA is the CRITICAL ELEMENT. Does not allow it to flow freely
+==>TIES DATA more closely TO FUNCTION on which operates , hence avoids unecessary modification
+==>DECOMPOSES PROBLEM into number of entities called OBJECT and then build function and data around it.
+==>COMBINATION METHOD AND DATA makes up OBJECT
+==> OBJECT can be accessed by its METHOD only.
+==> OBJECT CAN ACCESS OTHER OBJECT.
+
+FEATURES:
+==>EMPHASIS is ON DATA rather than procedure
+==>PROGRAM are DIVIDED into what are known as OBJECT
+==>DATA STRUCTURE are designed to CHARACTERIZE OBJECT
+==>METHOD that operate on OBJECT are tied closer
+==>DATA is HIDDEN cannot be accessed by other method
+==>OBJECT COMMUNICATE with each other through method
+==> NEW DATA and METHOD can be easily added
+==>Follows BOTTOM UP APPROACH
+
+BASIC CONCEPT OF OOPS
+OBJECTS AND CLASSES
+Object
+==>OBJECTS are basic RUNTIME entities
+==> person, address etc
+==>REPRESENT USER DEFINED DATA TYPES- LIST AND ARRAY
+==>PROBLEMS are analysed USING OBJECT
+==> When PROGRAM IS EXECUTED, object interact by SENDING MESSAGE to one another.
+==>object contains the data and code to manipulate the data.
+Example:
+Banking:Customer and account
+Customer object can send message to account object requesting balance.
+THese can operate on its own without getting information from one another.
+Object contains code to manipulate data.
+Class
+==>Entire SET OF DATA WITH CODE can be made user defined type using the concept of class
+==>class can be considered as DATATYPE and OBJECT as variable.
+==>Once a CLASS is defined n number of OBJECT can be created
+==>Class is collection of SIMILIAR DATA TYPE object
+
+DATA ABSTRACTION AND ENCAPSULATION
+Encapsulation
+==>WRAPPING up of DATA and METHOD into single unit => encapsulation
+==>Striking feature
+==>DATA is NOT ACCESSIBLE by outside world, only method which are wrapped in class can access it
+==>METHOD is an INTERFACE between OBJECT AND DATA
+==> INSULATION OF DIRECT ACCESS OF DATA from program is called DATA HIDING
+ABSTRACTION
+==>Act of REPRESENTING THE ESSENTIAL FEATURE without including the explanation.
+
+PRINCIPLE OF OOPS:
+ENCAPSULATION
+POLYMORPHISM 
+INHERITENCE
+
+INHERITENCE
+==>Process in which OBJECT OF ONE CLASS CAN ACQUIRE PROPERTIES OF ANOTHER CLASS.
+==>Supports HIERARICHAL CLASSIFICATION
+==>Provides idea of REUSABILITY:We can additional function without modifying it.
+
+POLYMORPHISM
+==>Ability to take MORE THAN ONE FORM
+==>Exhibit DIFFERENT BEHAVIOR in different instances
+==>Polymorphism is useful when object can have DIFFERENT INTERNAL STRUCTURE BUT SAME EXTERNAL INTERFACE.
+
+Dynamic Binding
+==>CODE ASSOCIATED WITH THE GIVEN PROCEDURE IS NOT KNOWN UNTIL RUNTIME.
+
+Message Communication
+==>SET OF OBJECTS TO COMMUNICATE WITH EACH OTHER.
+==>Involves following STEP:
+	=>CREATING CLASSES THAT DEFINE OBJECT AND THEIR BEHAVIOR
+	=>CREATING OBJECT FROM CLASS DEFINITION
+	=>ESTABLISHING COMMUNICATION AMONG THE OBJECT.
+==> Object SEND AND RECV INFORMATION same way as human.
+==> MESSAGE TO AN OBJECT IS A REQUEST TO EXECUTE A PROCEDURE, ON RECEIVING THE MESSAGE PROVIDES A DESIRED RESULT.
+==>Message passing involves name of the object,name of the method and the information to be sent.
+==> Object have a life cycle. They can be created and destroyed.
+Example:
+Employee.salary(name);
+Employee:object
+salary:message
+name:information
+
+BENEFITS OF OOPS:
+==>Through INHERITENCE,we can eleminate redudant code.
+==>We can just USE CODE from standard module , rather than writing code from scratch.
+==>DATA HIDING helps builsd secure program
+==>MULTIPLE OBJECT CO-EXIST without interface
+==> Possible to MAP OBJECT in problem in domain with that of program domain.
+==>EASY TO DIVIDE the problem depending on the object
+==>DATA CENTRIC APPROACH
+==>Can be easily be UPGRADED FROM SMALL TO LARGE SYSTEM
+==>Message COMMUNICATION WITH OBJECT MAKES IT SIMPLER TO INTERACT WITH EXTERNAL SYSTEM
+==>SOFTWARE COMPLEXITY CAN BE EASILY BE MANAGED.
+
+
+
+
+
+
+
+

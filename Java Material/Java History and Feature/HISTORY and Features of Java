@@ -1,0 +1,21 @@
+HISTORY and Features of Java
+http://www.javatpoint.com/history-of-java
+
+Green Team started Java. This new language is for digital devices such as setter box, television etc
+Firstly, it was called "Greentalk" by James Gosling and file extension was .gt.
+After that, it was called Oak and was developed as a part of the Green project.
+They wanted something that reflected the essence of the technology: revolutionary, dynamic, lively, cool, unique, and easy to spell and fun to say.Hence came up with Java
+Java means Coffee. Hence java has a coffee symbol
+
+
+Feature
+http://www.javatpoint.com/features-of-java
+
+Simple : Syntax is based on C++, removed rarely used feature, unreferenced object need not be used
+Platform Independent : build once run anywhere
+Secure : Java checks all memory access and also makes sure no virus are communicated.
+Robust: has strong memory management, no pointers are used, There is automatic garbage collection. Exception and type checking is easy.
+Architectural Neutral : There is no platform dependent features in Java
+Portable : TO any platform
+High Performance : Java is faster than native interpreter, because byte code is in native language
+Distributed : we can access any file from the machine using the method

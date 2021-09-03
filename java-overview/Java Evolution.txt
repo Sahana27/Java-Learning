@@ -1,0 +1,129 @@
+JAVA HISTORY
+==>Developed by Sun Microsystem USA 1991
+==>Orginally called OAK by James Gosling
+==>Java was developed for consumer devices eg:TV,vcr etc
+==>Goal was to make language simple ,highly reliable,portable etc.
+==>Java was developed to remove some of the restrictions in C and C++
+==> Major attractive feature is -> Platform neutral language
+==> Java program can be compiled once and executed anywhere
+
+Java Features:
+COMPILED AND INTREPETED
+==> Most of the LANGUAGE THE CODE IS EITHER COMPILED OR INTERPRETED. Here Java supports both. This makes java two stage system
+==>Java TRANSLATE CODE what is known as BYTE CODE instruction
+==>Byte code are not machine language compatible 
+==> Second Stage, Java TRANSLATES THE BYTE CODE TO MACHINE UNDERSTANDABLE LANUAGE , so that it is easy for the machine to execute.
+
+Platform Independent and Portable
+==>Java program can be EASILY MOVED from system to another
+==>Change or UPGRADE OF THE OPERATING SYSTEM does not make the Java program to be changed==>Hence Java is famous in the internet
+==>Java SUPPORTS PORTABILITY in two ways:
+	=>Java BYTE CODE implementation that can run on any system
+	=>SIZE OF PRIMITIVE DATA TYPE are machine indepenedent.
+
+Object Oriented
+==>EVERYTHING in java IS OBJECT
+==>Program CODE AND DATA RESIDES within OBJECT AND CLASS
+==>Java comes with EXTENSIVE USE OF CLASSES , which are organised in object.
+==>Object model in java are EASY AND SIMPLE to extend
+
+Robust and Secure
+==>Java is ROBUST language
+==> Java has STRICT COMPILE AND RUN TIME CHECKING
+==>MEMORY MANAGEMENT problem is solved  GARBAGE COLLECTION TECHNIQUE
+==>Java has method to HANDLE CRASH using EXCEPTION HANDLING
+==> Java keeps CHECK OF ALL THE MEMORY ACCESS and also ensure NO VIRUS COMMUNICATE THROUGH APPLIET
+
+Distributed
+==>Java is designed to DEVELOP APPLICATION ON THE NETWORK
+==>Can OPEN AND ACCESS REMOTE OBJECT using internet
+
+Multihthreaded and Interactive  
+==>MULTITHREADING:Handling multiple task simultaneously.
+==>APPLICATION need not wait for the PROGRAM TO COMPLETE to complete to start next execution
+==>IMPROVES INTERACTIVITY
+
+high Performance:
+==>Java Performance is IMPRESSIVE as an interpreted language, due to intermediate byte code.
+==>Java architecture REDUCES OVERHEAD during runtime
+
+Dynamic and Extensible:
+==>Java is DYNAMIC LANGUAGE
+==> Capable of dYNAMICALLY LINKING IN NEW CLASS AND LIBRARIES METHODS AND OBJECT.
+==>Java can DETERMINE TYPE OF CLASS THROUGH QUERY, making it possible to dynamically link or abort the program.
+==> Supports function written in other language and are called NATIVE METHOD.
+==>Native method are LINKED AT RUNTIME.
+
+Ease Of Development:
+==>Supports feature such as Generics, ENhanced FOr loop,Autoboximg and autounboxinh,Type safe Enums,Varags, static import snd annotation.
+==>Reduces the work of programmer and increases reusability of the code.
+==>Code is error free.
+
+Scalability and Performance:
+==>Significant increase in the scalability and performance by INCREASING THE START UP TME AN REDUCING THE AMOUNT OF MEMORY
+
+Simple small and familiar
+==>Java is small and simple language
+Features of C and C++ thta re redudant and unreliable are not part of Java.Example pointer and goto statment
+==> Familarity is another feature. Java is modelled around C and C++ to provide familarity.
+
+SIMPLE JAVA PROGRAM:
+==>First Line, class declaration
+class SampleOne
+class is a keyword
+everything must be placed inside a class
+==> Open Braces
+	Every class definition begins with open braces and end with matching closing braces.
+==> Main Line
+	public static void main(String args[]);
+	defines a method name
+	starting point to begin its execution
+	java can have any number of classes, but contains only one main method
+	public: makes the method to be accessible to all
+	static==> determines the class is accessible not just one object.
+	void==> method does not return any value.
+==>Output Line
+	System.out.println("");
+	System.out.println() is similiar to any print statement in any other language.
+	
+
+JAVA PROGRAM STRUCTURE
+==> Java class contains many classes. But only one class contain main method
+==> Classes contain data members and method that operate on data members of the class
+==> Method contain data type and executable statements
+==> to write java program, we first define class and then put them together.
+
+Documentation Section:
+==>Consists of set of comments giving line of the name of the program.
+==>Comment must explain what and why of classes and how  algorithm.
+==>help in maintaining the program
+==> Documentation comments
+/**...*/
+
+Package Statmenet:
+==>First statement in java class
+==>keyword package is used
+==>informs the compiler that classes are defined here belongs to package
+
+Import Statement:
+==>Import statment after package
+==>Similiar to include statment in C
+==>Imports the class specified
+Example
+import student.test;
+Instructs interpreter to include the test from student pacjkage.
+
+Interface Statements:
+==>Like class but includes group of method declaration.
+==>Optional Section
+
+Class Definition:
+==>Multiple class definition
+==>Primary and essential elements of Java Program
+==>Classes are used to map the object of real world
+
+Main Method Class:
+==>main is the starting point of the program
+==>Main method creates object for different class, and also start communication.
+==>On reaching the end of the program, program terminates  the control passes back to the program
+ 

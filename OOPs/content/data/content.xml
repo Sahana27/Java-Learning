@@ -1,0 +1,1134 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-47124.657946068866" y="-40205.88224406185" width="94249.31589213773" height="80411.7644881237"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="1_95982358" type="button" x="-2919.1655827406353" y="1463.3477553901544" r="0" s="49.99162705447108" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>827.017689256149</w>
+        <h>472.7586321704921</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_95982358" type="image" x="68.988484564189" y="1462.5315057018393" r="0" s="16.249491158675937">
+      <source w="1265" h="1103">2534126599<url>2534126599.swf</url></source>
+      <sourceUrl>COLOR Birds_UP.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    <resource><id>2534126599</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/7/b/c/0fee79a920977369f923e42cd08055a6ecfdf.swf</url></resource></object>
+    <object id="6_95982358" type="button" x="-8121.164512878473" y="8677.15586804508" r="0" s="1.8533713126468727" class="roundrect">
+      <type>roundrect</type>
+      <size>
+        <w>1074.6268656716418</w>
+        <h>600</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="40_95982358" type="button" x="-4127.57789908541" y="5821.758313350565" r="0" s="2.2534161865980344" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="41_95982358" type="text" x="-4128.827383094987" y="5142.540401952842" r="-1.6017276158877872e-31" s="4.967819896213888" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[OOPs Paradigm]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="43_95982358" type="text" x="-4117.43072124093" y="5816.45" r="-2.7759820227195356e-31" s="3.5520926577283105" class="body">
+      <height>228.78515625</height>
+      <width>392.6737784827681</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data -Critical Element]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Ties Data close to function]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Decompose Problem- Object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Method+Data=Object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Access Object -Using Method]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Objects can communicate to another Object]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="4_30863873" type="image" x="-10082.53025477721" y="10111.9848726116" r="0" s="4.075516324865964">
+      <source w="737" h="717" bt="4.85" bl="60.7">2587371169<url>2587371169.swf</url></source>
+      <sourceUrl>szinesmadar-01.swf</sourceUrl>
+      <extra>
+        <fixed_avm1_pos>1</fixed_avm1_pos>
+      </extra>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    <resource><id>2587371169</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/a/8/b/8af565601660d9ce5c64a8e184f6800cef5f2.swf</url></resource></object>
+    <object id="44_95982358" type="text" x="-17306.5379305588" y="9327.49157138219" r="0" s="36.05975785310623" class="head">
+      <height>63.984375</height>
+      <width>326.6459738459077</width>
+      <p align="right">
+        <text><![CDATA[OBJECT ORIENTED PROGRAMMING]]></text>
+      </p>
+    </object>
+    <object id="46_95982358" type="button" x="-2492.3123429570346" y="3431.4164483263316" r="0" s="3.154782661237248" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="47_95982358" type="text" x="-2487.071620570444" y="2494.5113723695194" r="-1.6017276158877872e-31" s="6.954947854699439" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Features of OOPS]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="48_95982358" type="text" x="-2452.640522984247" y="3446.369173975687" r="-2.775982022719536e-31" s="4.384148380691938" class="body">
+      <height>294.15234375</height>
+      <width>436.32377848276815</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Emphasis on Data]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Programs are divided -Object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data Structure-Characterize Object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Object are tied close to method]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data is hidden]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Object communicate with other -Method]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[New Data can be added]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Approach-Bottom Up]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="49_95982358" type="button" x="815.9929909867147" y="2722.5291493036534" r="0" s="3.4465834421745707" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="50_95982358" type="text" x="837.7607884397311" y="1795.677019837603" r="-1.6017276158877872e-31" s="7.598243901782365" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Basic Concept Of OOPs]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="51_95982358" type="text" x="796.1" y="2916.45" r="-2.775982022719536e-31" s="2.3592490590203186" class="body">
+      <height>196.1015625</height>
+      <width>443.4737784827681</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Object and Classes]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Data Abstraction and Encapsulation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Inheritence ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Polymorphism]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Message Communiction]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Data Binding]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="52_95982358" type="button" x="-0.5" y="2206.7" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="53_95982358" type="text" x="-4.534092661883847" y="2037.640832859564" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Principals Of Oops]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="54_95982358" type="text" x="-1.3999999999999773" y="2191.3" r="-2.775982022719535e-31" s="0.6112783399341685" class="body">
+      <height>98.05078125</height>
+      <width>390.9237784827681</width>
+      <p align="center">
+        <text color="5974240"><![CDATA[Encapsulation]]></text>
+      </p>
+      <p align="center">
+        <text color="5974240"><![CDATA[Inheritence]]></text>
+      </p>
+      <p align="center">
+        <text color="5974240"><![CDATA[Polymporphism]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="55_95982358" type="button" x="2833.399442861015" y="-425.27263455007244" r="0" s="3.969771036510309" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="56_95982358" type="text" x="2818.533175191022" y="-1473.1091770137139" r="-1.6017276158877867e-31" s="8.751649010013706" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Benefits of OOPs]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="57_95982358" type="text" x="2860.2500000000005" y="-429.20726202091714" r="-2.775982022719536e-31" s="3.9025848330836106" class="body">
+      <height>261.46875</height>
+      <width>632.4737784827681</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Inheritance- eliminate redundancy]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Use standard code- rather than writing from scratch]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data Hiding-Build secure program]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Multiple object exist without interface]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data centric- approach]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Easy Upgradation]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Easy Interaction with external System]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Software Complexity is made easy]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="-8125.992089032455" y="8260.950812579482" r="0" s="4.1281943009471584" class="strong">
+      <height>28.8</height>
+      <width>409.346143553921</width>
+      <p align="center">
+        <text><![CDATA[CONTENT]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="1_30863873" type="text" x="-8142.324085262824" y="8804.670835048611" r="0" s="2.6543522463558125" class="strong">
+      <height>288.00000000000006</height>
+      <width>642.4221214502834</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[OBJECT ORIENTED PARADIGM]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[FEATURES OF OOPS]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[BASIC CONCEPT OF OOPS]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Object and Classes]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Data Abstraction and Encapsulation]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Inheritance]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Polymorphism]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Data Binding]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Message Communication]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Benefits of OOPS]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="2_30863873" type="shape" x="-46999.25092305186" y="-39845.25508062714" r="0" s="6.270351150850232" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="3_30863873" type="shape" x="46949.088113845064" y="-40030.312411838044" r="0" s="8.778491611190326" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="5_30863873" type="shape" x="-47031.24599641917" y="40116.3057990497" r="0" s="4.478822250607309" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="6_30863873" type="shape" x="46917.093040477754" y="39931.248467838814" r="0" s="6.270351150850232" class="poly5">
+      <style borderThickness="NaN"/>
+      <style borderThickness="NaN"/>
+      <geom type="poly">
+        <p x="-20" y="-20"/>
+        <p x="20" y="-20"/>
+        <p x="20" y="20"/>
+        <p x="-20" y="20"/>
+        <t>NaN</t>
+        <r>0</r>
+      </geom>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="7_30863873" type="persistentgroup" x="0" y="0" r="0" s="63.68128272681425">
+      <m o="0_95982358"/>
+      <m o="2_30863873"/>
+      <m o="3_30863873"/>
+      <m o="5_30863873"/>
+      <m o="6_30863873"/>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="0" type="button" x="730.2429909867151" y="2206.529149303653" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="1" type="text" x="726.9" y="2037.4499999999998" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Object and Classes]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="2" type="text" x="727.8856035807953" y="2081.6678593333445" r="-2.775982022719536e-31" s="0.7562339261635092" class="strong">
+      <height>28.8</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[OBJECT]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="4" type="button" x="1375.25" y="2344.4" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="5" type="text" x="1371.915907338116" y="2194.2140803391935" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Data Abstraction and Encapsulation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="6" type="text" x="1359.19261259408" y="2251.288710029692" r="-2.7759820227195364e-31" s="0.756233926163509" class="strong">
+      <height>28.8</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text><![CDATA[ENCAPSULATION]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="8" type="button" x="1721.65" y="3144.2000000000003" r="0" s="0.5723847227449619" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="9" type="text" x="1718.4264740811354" y="2981.413707571764" r="-1.601727615887786e-31" s="1.2618637563947341" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Inheritance]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="12" type="button" x="1163.3387933849397" y="3626.9648639905286" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="13" type="text" x="1152.9" y="3457.9" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Polymorphism]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="14" type="text" x="1165.95" y="3622.45" r="-2.7759820227195364e-31" s="0.8642888387640966" class="body">
+      <height>228.78515625</height>
+      <width>390.9237784827681</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Ability to take more than one form]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Exhibit different Behavior:At Runtime]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Object different internal structure but same External structure]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="16" type="button" x="261.75" y="3627" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="17" type="text" x="257.7159073381164" y="3476.8140803391943" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>57.6</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Message Communication]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="18" type="text" x="262.1" y="3628.25" r="-2.775982022719536e-31" s="0.6348360679815249" class="body">
+      <height>294.15234375</height>
+      <width>595.8237784827681</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Object to communicate with each other]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Steps:]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="5974240"><![CDATA[Creating class :defines object behavior]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="5974240"><![CDATA[Creating object for class definition]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text color="5974240"><![CDATA[Establishing communication ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[ Message to an object is the request to execute the method an information is used to provide desired result]]></text>
+      </p>
+      <p>
+        <text color="5974240"><![CDATA[Employee.salary(name)]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="19" type="button" x="-151.5306716829101" y="2893.3720071151133" r="0" s="0.5945107469000523" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <notModifiedByUser>from-template</notModifiedByUser>
+        <parentTemplate>take-flight</parentTemplate>
+      </meta>
+    </object>
+    <object id="20" type="text" x="-155.56476434479418" y="2724.312839974678" r="-1.6017276158877867e-31" s="1.310642186085394" class="strong">
+      <height>28.8</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Data Binding]]></text>
+      </p>
+      <layout>
+        <layout-element role="title"/>
+      </layout>
+    </object>
+    <object id="21" type="text" x="-162.28805908882987" y="2815.31198629729" r="-2.775982022719536e-31" s="0.796087763557469" class="body">
+      <height>65.3671875</height>
+      <width>390.9237784827681</width>
+      <p>
+        <text color="5974240"><![CDATA[Code associate with the object is not known until runtime]]></text>
+      </p>
+      <layout>
+        <layout-element role="body"/>
+      </layout>
+    </object>
+    <object id="22" type="text" x="729.7531477495576" y="2146.0698870747856" r="0" s="0.7562339261635092" class="body">
+      <height>130.734375</height>
+      <width>-386.0625</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Runtime Entity]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Represents -Array and List]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Problems are Analysed]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Object Interact while execution]]></text>
+      </p>
+    </object>
+    <object id="23" type="text" x="612.6" y="2222.8500000000004" r="0" s="0.7562339261635092" class="strong">
+      <height>28.8</height>
+      <width>-58.75200000000001</width>
+      <p>
+        <text><![CDATA[CLASS]]></text>
+      </p>
+    </object>
+    <object id="24" type="text" x="751.9000000000001" y="2302.75" r="0" s="0.6743281462466167" class="body">
+      <height>163.41796875</height>
+      <width>452.0859375</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Set of Data and Code-User Defined Data Type:Class]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Class-Datatype,Object:variable]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[1 class-n number of objects]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[class-colllection of similiar data type]]></text>
+      </p>
+    </object>
+    <object id="25" type="text" x="1369" y="2329.55" r="0" s="0.5462718013087738" class="body">
+      <height>196.1015625</height>
+      <width>505.72265625</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Wrapping Data and Code]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data not accessible :Outside world]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Method is interface between data and object]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Data Hiding:Insulation of direct access of data]]></text>
+      </p>
+    </object>
+    <object id="26" type="text" x="1267.3643298448571" y="2410.289146393042" r="0" s="0.5462718013087738" class="strong">
+      <height>28.8</height>
+      <width>-190.848</width>
+      <p>
+        <text><![CDATA[DATA ABSTRACTION]]></text>
+      </p>
+    </object>
+    <object id="27" type="text" x="1351.7176600384942" y="2434.404230361333" r="0" s="0.5462718013087738" class="body">
+      <height>32.68359375</height>
+      <width>-410.3203125</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Represents only essential feature]]></text>
+      </p>
+    </object>
+    <object id="28" type="text" x="1728.05" y="3105.9" r="0" s="0.8805316041543678" class="body">
+      <height>130.734375</height>
+      <width>337.3438825657333</width>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Properties of one class is acquired by another]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Hierarchical Classification]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text color="5974240"><![CDATA[Re usability]]></text>
+      </p>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="3.141221847876328" fadescale="5.760849749402848">
+      <object id="background2533364506" type="image" x="2876.288911538657" y="-861.8220023028439" r="0" s="6.809452376495353">
+        <source w="2343" h="2069">2533364506<url>2533364506.png</url></source>
+        <sourceUrl>Birds-BG_4Blur.png</sourceUrl>
+      <resource><id>2533364506</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/f/1/a/8fcece48cccaefb2dd43973e85d692a7562b4.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="1_95982358"/>
+    </s>
+    <s>
+      <eagle o="6_95982358"/>
+    </s>
+    <s>
+      <eagle o="40_95982358"/>
+    </s>
+    <s>
+      <eagle o="46_95982358"/>
+    </s>
+    <s>
+      <eagle o="49_95982358"/>
+    </s>
+    <s>
+      <eagle o="52_95982358"/>
+    </s>
+    <s>
+      <eagle o="0"/>
+    </s>
+    <s>
+      <eagle o="4"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="12"/>
+    </s>
+    <s>
+      <eagle o="16"/>
+    </s>
+    <s>
+      <eagle o="19"/>
+    </s>
+    <s>
+      <eagle o="55_95982358"/>
+    </s>
+    <s>
+      <eagle o="1_95982358"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('NotoSans-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Bold.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: normal;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Titillium-BoldItalic.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-Italic.keg');
+	fontFamily: undefined;
+	font-class: undefined;
+	font-style: italic;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('NotoSans-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('NotoSans-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: NotoSans;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('PlayfairDisplay-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: PlayfairDisplay;
+}
+
+@font-face
+{
+	src: url('Titillium-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Titillium-RegularItalic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Titillium;
+}
+
+@font-face
+{
+	src: url('Arimo-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Arimo;
+}
+
+@font-face
+{
+	src: url('Arimo-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Arimo;
+}
+
+.line1
+{
+	color: #c93842;
+	gradEndColor: #c93842;
+	gradStartColor: #c93842;
+}
+
+.line2
+{
+	color: #6cab5d;
+	gradEndColor: #6cab5d;
+	gradStartColor: #6cab5d;
+}
+
+.line3
+{
+	color: #3d99d3;
+	gradEndColor: #3d99d3;
+	gradStartColor: #3d99d3;
+}
+
+.line4
+{
+	color: #f48951;
+	gradEndColor: #f48951;
+	gradStartColor: #f48951;
+}
+
+.line5
+{
+	color: #fcd756;
+	gradEndColor: #fcd756;
+	gradStartColor: #fcd756;
+}
+
+.poly1
+{
+	color: #fff;
+	gradEndColor: #c93842;
+	gradStartColor: #c93842;
+}
+
+.poly2
+{
+	color: #fff;
+	gradEndColor: #6cab5d;
+	gradStartColor: #6cab5d;
+}
+
+.poly3
+{
+	color: #fff;
+	gradEndColor: #3d99d3;
+	gradStartColor: #3d99d3;
+}
+
+.poly4
+{
+	color: #fff;
+	gradEndColor: #f48951;
+	gradStartColor: #f48951;
+}
+
+.poly5
+{
+	color: #fff;
+	gradEndColor: #fcd756;
+	gradStartColor: #fcd756;
+}
+
+Background
+{
+	gradEnd: #fff;
+	gradStart: #fff;
+}
+
+Grid
+{
+	color: #b8b8b8;
+}
+
+ZArrow
+{
+	borderAlpha: 0;
+	borderThickness: 0;
+	gradEndAlpha: 0;
+	gradEndColor: #fff;
+	gradStartAlpha: 1;
+	gradStartColor: #fff;
+	thickness: 6;
+}
+
+ZCircle
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZCurveLine
+{
+	color: #fff;
+}
+
+ZFrame.bracket
+{
+	borderAlpha: 0;
+	borderColor: #318bff;
+	borderThickness: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #c93842;
+	gradStartAlpha: 1;
+	gradStartColor: #c93842;
+	padding: 1.03;
+	thickness: 7;
+}
+
+ZFrame.circle
+{
+	borderAlpha: 0;
+	borderColor: #333;
+	borderThickness: 3;
+	gradEndAlpha: 1;
+	gradEndColor: #3d99d3;
+	gradStartAlpha: 1;
+	gradStartColor: #3d99d3;
+	padding: 1.03;
+	thickness: 7;
+}
+
+ZFrame.roundrect
+{
+	borderAlpha: 1;
+	borderColor: #bcb9ac;
+	borderThickness: 1;
+	gradEndAlpha: 0.55;
+	gradEndColor: #fff;
+	gradStartAlpha: .75;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 1;
+	thickness: 3;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+	padding: 1.2;
+}
+
+ZLabel.body
+{
+	color: #000;
+	fontFamily: body;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.9;
+	background-color: #fcd756;
+	background-padding: 6;
+}
+
+ZLabel.head
+{
+	color: #000;
+	fontFamily: head;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.9;
+	background-color: #3d99d3;
+	background-padding: 6;
+}
+
+ZLabel.strong
+{
+	color: #000;
+	fontFamily: strong;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.9;
+	background-color: #fcd756;
+	background-padding: 6;
+}
+
+ZLine
+{
+	color: #fff;
+}
+
+ZMarker
+{
+	alpha: .65;
+	color: #f45400;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #333;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #333;
+	radius: 12;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #333;
+	radius: 8;
+}
+
+ZPoly
+{
+	borderAlpha: 0;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+]]></style>
+  <hash>-2034b825</hash>
+<sync><oid>qbfclafttvfo</oid><title>java-day-1</title><hash>-2034b825</hash></sync><config>Lh34Db4oWt6JsD+F4+h2+iGcNDF6H+Np6Lw6uHayEYhvc+8VKNQTUTKnGFIRjmtudKKMz13gMLxh34dZyh2ZxrcegnsKJU2OKQXVVQI2FfqlVgv50i/bFIqXuQPs0t51SAaJWSotStwxFp8DvEQZD305kkZ7caW660VcAwDTtCKhpOiGTpURbJ48LMT3zRGfaztIglTRloC1+q/kKflgM4HCFoyp9PZzDPI4qVc/mj6PjLeEsuMKGmFk3z7b3/wbMbZs1DQpRVpybRfqU0JQdYYFa/+hBp9kx/jrWgOdKF1SA2Nih/RGdmOFeLLhM9mOAeAbE1T7mP3yu71OsPcazA==</config></zuiprezi>
